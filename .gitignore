@@ -1,0 +1,38 @@
+# Datasets
+dataset/
+dataset_final/
+dataset_final2/
+apple-grade-seg.v1i.yolov8/
+banana_segmentation.v1i.yolov8/
+mango.v1i.yolov8/
+orange.v1i.yolov8/
+Watermelon Detector.v1i.yolov8/
+
+# Virtual environment
+fruitenv/
+venv/
+env/
+
+# Training outputs
+runs/
+
+# Model weights
+*.pt
+*.pth
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Fruit detection app (if large)
+fruit_detection/
