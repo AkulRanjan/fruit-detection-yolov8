@@ -1,0 +1,11 @@
+path: ./dataset_final2
+train: images/train
+val: images/val
+
+nc: 5
+names:
+  0: apple
+  1: banana
+  2: mango
+  3: orange
+  4: watermelon
